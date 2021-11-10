@@ -9,6 +9,4 @@ by Ümmühan Demir November 2021
 [Emphasis](#emphasis)    
 <a name="headers"/>
 ## Data Question 
-This week we are working on the Sakila database mainly to answer the question: which films will be rented next month? 
-
-
+This week we are working on the Sakila database mainly to answer the question: which films will be rented next month? This [link](https://github.com/UmmuDem/Making_Predictions_Sakila/blob/main/related_lab_questions.md) can be used to see the detailed workflow of us.
