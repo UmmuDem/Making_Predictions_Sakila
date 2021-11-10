@@ -16,7 +16,12 @@ This week we are working on the Sakila database mainly to answer the question: w
 * Next, to work on that data I connect **Python** and **Sql** by using **pymysql** and **sqlalchemy** libraries and run the query I ended up with.
 * After creating dataframe, to gain deeper insight into it I did some explorations, and plottings of correlation matrix. The last one is particularly important for us as it is a signal of multicollinearity.
 * I applied some preprocessing on numerical columns to make them a bit more 'normal'.
-![Before preprocessing](images/beforepre.png) ![Before preprocessing](images/beforepre.png) ![Before preprocessing](images/beforepre.png) 
+ <p float="left">
+  <img src="beforepre.png" width="100" />
+  <img src="Normalizer.png" width="100" /> 
+  <img src="StandardScaler.png" width="100" />
+</p>
+
 
 
 
