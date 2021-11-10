@@ -6,7 +6,7 @@ by Ümmühan Demir November 2021
 
 ### Table of Contents  
 [Data Question & Methodology](#Headers)  
-[Next Steps](#Headers) 
+[Next Steps](#Headers)
 [Useful Links](#Headers)
 <a name="headers"/>
 ## Data Question & Methodology
@@ -17,8 +17,7 @@ This week we are working on the Sakila database mainly to answer the question: w
 * After creating dataframe, to gain deeper insight into it I did some explorations, and plottings of correlation matrix. The last one is particularly important for us as it is a signal of multicollinearity.
 * I applied some preprocessing on numerical columns to make them a bit more 'normal'.
 ![Before preprocessing](/images/beforepre.jpeg) 
-![After Normalizer applied](/images/beforepre.jpeg) 
-![After StandardScaler applied](/images/beforepre.jpeg) 
+
 
 
 ## Next Steps
