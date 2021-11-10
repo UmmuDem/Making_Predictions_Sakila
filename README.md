@@ -17,9 +17,9 @@ This week we are working on the Sakila database mainly to answer the question: w
 * After creating dataframe, to gain deeper insight into it I did some explorations, and plottings of correlation matrix. The last one is particularly important for us as it is a signal of multicollinearity.
 * I applied some preprocessing on numerical columns to make them a bit more 'normal'.
  <p float="left">
-  <img src="images/beforepre.png" width="100" />
-  <img src="images/Normalizer.png" width="100" /> 
-  <img src="images/StandardScaler.png" width="100" />
+  <img src="images/beforepre.png" width="200" />
+  <img src="images/Normalizer.png" width="200" /> 
+  <img src="images/StandardScaler.png" width="200" />
 </p>
 
 
