@@ -9,6 +9,10 @@ by Ümmühan Demir November 2021
 [Next Steps](#Headers)/n
 [Useful Links](#Headers)
 <a name="headers"/>
+[Data Question & Methodology](#Headers)/n
+[Next Steps](#Headers)/n
+[Useful Links](#Headers)
+<a name="headers"/>
 
 ## Data Question & Methodology
 This week we are working on the Sakila database mainly to answer the question: which films will be rented next month? The answer of this question would be binary, either 1(yes, it will be rented) or 0(no, sorry out of trends). To get that end logistic regression will be used. 
