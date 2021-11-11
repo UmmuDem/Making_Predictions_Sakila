@@ -26,13 +26,16 @@ This week we are working on the Sakila database mainly to answer the question: w
   <img src="/images/standard.png" width="250" />
 </p>
 * Next I created the target column by querying whether the film is rented last month or not. This can be done on **mySql workbench** or by defining a function in **Python**.
+* After concatanating the now-all-numerical columns, I applied logistic regression to that data.
+* Then I divided the data into train and test like 70-30 percentages. 
+* After I get 79% accuracy score for that model, because it is too good for a made-up limited data, I suspected about data imbalance. 
+* Examining confusion matrix showed me that actually my model didn't do any good job for predicting.
+* To deal with this problem, some sampling methods were applied.
 
 ## Next Steps
+* Combination of sampling methods will be applied.
+* The steps above will be applied for a different combination of columns. 
 
-* After concatanating the now-all-numerical columns, I will apply logistic regression to that data. 
-* In the first step I will divide the data into train and test like 70-30 percentages. 
-* After I get the accuracy score for that model, I will try to improve it by going into deeper.
-* If confusion matrix suggests so, I will also apply sampling methods.
 
 ## Useful Links & Notes
 * I added [the sakila-db](https://github.com/UmmuDem/Making_Predictions_Sakila/tree/main/sakila-db) for whom want to dive into it.
