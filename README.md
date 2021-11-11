@@ -7,7 +7,6 @@ by Ümmühan Demir November 2021
 ### Table of Contents  
 [Data Question & Methodology](#Headers)  
 [Next Steps](#Headers)
-
 [Useful Links](#Headers)
 <a name="headers"/>
 ## Data Question & Methodology
