@@ -25,6 +25,7 @@ This week we are working on the Sakila database mainly to answer the question: w
   <img src="/images/Normalizer.png" width="250" /> 
   <img src="/images/standard.png" width="250" />
 </p>
+
 * Next I created the target column by querying whether the film is rented last month or not. This can be done on **mySql workbench** or by defining a function in **Python**.
 * After concatanating the now-all-numerical columns, I applied logistic regression to that data.
 * Then I divided the data into train and test like 70-30 percentages. 
