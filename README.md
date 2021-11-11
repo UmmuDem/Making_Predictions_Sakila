@@ -15,13 +15,12 @@ This week we are working on the Sakila database mainly to answer the question: w
 * First, I tried to query the most relevant data out of Sakila on **MySql workbench**. 
 * Next, to work on that data I connect **Python** and **Sql** by using **pymysql** and **sqlalchemy** libraries and run the query I ended up with.
 * After creating dataframe, to gain deeper insight into it I did some explorations, and plottings of correlation matrix. The last one is particularly important for us as it is a signal of multicollinearity.
-* I applied some preprocessing on numerical columns to make them a bit more 'normal'.
-<p float="left">
-  <img src="/images/before.png" width="200"  'title'/>
-  <img src="/images/Normalizer.png" width="200" /> 
-  <img src="/img3.standard" width="200" />
+* I applied some preprocessing on numerical columns to make them a bit more 'normal'. The following plots show numerical columns before preprocessing, after Normalizer() applied and after StandardScaler() applied, respectively.
+ <p float="left">
+  <img src="/images/before.png" width="250"  'title'/>
+  <img src="/images/Normalizer.png" width="250" /> 
+  <img src="/imgages.standard" width="250" />
 </p>
-
 
 ## Next Steps
 
