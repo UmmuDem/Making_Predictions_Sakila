@@ -11,18 +11,23 @@ by Ümmühan Demir November 2021
 <a name="headers"/>
 ## Data Question & Methodology
 This week we are working on the Sakila database mainly to answer the question: which films will be rented next month? The answer of this question would be binary, either 1(yes, it will be rented) or 0(no, sorry out of trends). To get that end logistic regression will be used. 
- My methodology to approach this question is as following:
+ My methodology to approach this question is as following so far(will be updated when next steps are processed one by one):
 * First, I tried to query the most relevant data out of Sakila on **MySql workbench**. 
 * Next, to work on that data I connect **Python** and **Sql** by using **pymysql** and **sqlalchemy** libraries and run the query I ended up with.
 * After creating dataframe, to gain deeper insight into it I did some explorations, and plottings of correlation matrix. The last one is particularly important for us as it is a signal of multicollinearity.
 * I applied some preprocessing on numerical columns to make them a bit more 'normal'. The following plots show numerical columns before preprocessing, after Normalizer() applied and after StandardScaler() applied, respectively.
  <p float="left">
-  <img src="/images/before.png" width="250"  'title'/>
-  <img src="/images/Normalizer.png" width="250" /> 
-  <img src="/imgages.standard" width="250" />
+  <img src="/images/before.png" width="300"  'title'/>
+  <img src="/images/Normalizer.png" width="300" /> 
+  <img src="/images.standard" width="300" />
 </p>
 
 ## Next Steps
+* The first thing next to be done is create the target column by querying whether the film is rented last month or not. This can be done on mySql workbench or by defining a function in Python.
+* After concatanating the now-all-numerical columns, I will apply logistic regression to that data. 
+* In the first step I will divide the data into train and test like 70-30 percentages. 
+* After I get the accuracy score for that model, I will try to improve it by going into deeper.
+* If confusion matrix suggests so, I will also apply sampling methods.
 
 ## Useful Links & Notes
 * I added the sakila-db for whom want to dive into it.
