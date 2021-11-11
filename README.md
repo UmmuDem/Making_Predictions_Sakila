@@ -5,8 +5,10 @@ by Ümmühan Demir November 2021
 ![What is this](images/renting_movies.jpeg)
 
 ### Table of Contents  
-[Data Question & Methodology](#Headers)  
+[Data Question & Methodology](#Headers)
+
 [Next Steps](#Headers)
+
 [Useful Links](#Headers)
 <a name="headers"/>
 ## Data Question & Methodology
