@@ -19,7 +19,7 @@ This week we are working on the Sakila database mainly to answer the question: w
  <p float="left">
   <img src="/images/before.png" width="300"  />
   <img src="/images/Normalizer.png" width="300" /> 
-  <img src="/images.standard.png" width="300" />
+  <img src="/images/standard.png" width="300" />
 </p>
 
 ## Next Steps
