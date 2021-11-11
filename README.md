@@ -5,13 +5,11 @@ by Ümmühan Demir November 2021
 ![What is this](images/renting_movies.jpeg)
 
 ### Table of Contents  
-[Data Question & Methodology](#Headers)
-
-[Next Steps](#Headers)
-
+[Data Question & Methodology](#Headers)/n
+[Next Steps](#Headers)/n
 [Useful Links](#Headers)
-[Data Question & Methodology](#Headers)
 <a name="headers"/>
+
 ## Data Question & Methodology
 This week we are working on the Sakila database mainly to answer the question: which films will be rented next month? The answer of this question would be binary, either 1(yes, it will be rented) or 0(no, sorry out of trends). To get that end logistic regression will be used. 
  My methodology to approach this question is as following so far(will be updated when next steps are processed one by one):
