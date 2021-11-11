@@ -34,7 +34,7 @@ This week we are working on the Sakila database mainly to answer the question: w
 * If confusion matrix suggests so, I will also apply sampling methods.
 
 ## Useful Links & Notes
-* I added the sakila-db for whom want to dive into it.
+* I added [the sakila-db](https://github.com/UmmuDem/Making_Predictions_Sakila/tree/main/sakila-db) for whom want to dive into it.
 * This [link](https://github.com/UmmuDem/Making_Predictions_Sakila/blob/main/related_lab_questions.md) can be used to see the lab questions as a guideline for our purpose.
 * [This](https://github.com/UmmuDem/Making_Predictions_Sakila/blob/main/Lab%20%7C%20Making%20predictions%20with%20logistic%20regression.ipynb) is the my jupyter notebook for detailed explanations and the code itself.
 
