@@ -19,7 +19,7 @@ This week we are working on the Sakila database mainly to answer the question: w
 ![here1](images/before.png "Before preprocessing") ![alt-text-2](images/Normalizer.png "title-2")
 
 <p float="left">
-  <img src="/images/before.png" width="100" />
+  <img src="/images/before.png" width="100"  'title'/>
   <img src="/images/before.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
