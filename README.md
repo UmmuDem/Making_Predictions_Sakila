@@ -21,9 +21,9 @@ This week we are working on the Sakila database mainly to answer the question: w
 * After creating dataframe, to gain deeper insight into it I did some explorations, and plottings of correlation matrix. The last one is particularly important for us as it is a signal of multicollinearity.
 * I applied some preprocessing on numerical columns to make them a bit more 'normal'. The following plots show numerical columns just to give some idea before preprocessing, after Normalizer() applied and after StandardScaler() applied, respectively. You can find the code for these in the link below.)
  <p float="left">
-  <img src="/images/before.png" width="300"  />
-  <img src="/images/Normalizer.png" width="300" /> 
-  <img src="/images/standard.png" width="300" />
+  <img src="/images/before.png" width="250"  />
+  <img src="/images/Normalizer.png" width="250" /> 
+  <img src="/images/standard.png" width="250" />
 </p>
 
 ## Next Steps
