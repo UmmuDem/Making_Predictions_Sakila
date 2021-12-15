@@ -5,15 +5,15 @@ by Ümmühan Demir November 2021
 ![What is this](images/renting_movies.jpeg)
 
 ### Table of Contents  
-[Data Question & Methodology](#data-question)
+[Data Question](#data-question)
 
 [Next Steps](#next-steps)
 
-[Useful Links](#Headers)
+[Useful Links](#useful-links)
 <a name="headers"/>
 
 
-## Data Question & Methodology
+## Data Question
 This week we are working on the Sakila database mainly to answer the question: which films will be rented next month? The answer of this question would be binary, either 1(yes, it will be rented) or 0(no, sorry out of trends). To get that end logistic regression will be used. 
  My methodology to approach this question is as following so far(will be updated when next steps are processed one by one):
 * First, I tried to query the most relevant data out of Sakila on **MySql workbench**. 
